@@ -1,3 +1,5 @@
+**RELOCATED: Ember Subscription had been moved to [MyPureCloud/ember-subscription](https://github.com/MyPureCloud/ember-subscription). Please send all issues and pull requests to that repository.**
+
 # Ember Subscription
 
 Ember event handling that sucks less.
